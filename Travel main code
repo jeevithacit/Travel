@@ -1,0 +1,217 @@
+<html>
+<head><link rel="stylesheet" type="text/css" href="style.css">
+	<title>Travelouge
+</title>
+</head>
+
+    
+
+    
+
+		<body> 
+<header>
+	<!--navbar-->
+  <nav class="navbar">
+  	<ul class="links-container">
+
+
+		
+	
+<li class="link-item"><a href="2 weather.html">Weather</a></li>
+<li class="link-item"><a href="#1">Explore</a></li>
+<li class="link-item"><a href="#hero-section"><img src="D:\profect photos/logo.png" class="logo" alt="logo"></a></li>
+<li class="link-item"><a href="#2">Services</a></li>
+<li class="link-item"><a href="#3">Book your tour</a></li>
+         </ul>
+     
+ </nav>
+ <!--hero section-->
+
+ <main class="hero-section" id="hero-section">
+ 	<div class="hero-section-content">
+ 		<h1 class="hero-section-title">Wonderful experience
+ 		</h1>
+ 		<p class="hero-section-sub-heading"></p> </div>
+
+ 		
+ 		<img src="D:\profect photos/down arrow.png" class="scroll-down-icon" alt="scroll down indicator">
+      </main>
+ 	<!--background-->
+ 	<div class="background">
+ 		<img src="D:\profect photos/img3.png" class="background-image" alt="hero-section-image">
+        <img src="D:\profect photos/img2.png" class="background-image" alt="image">
+
+ 		<!--grid-->
+
+ 			<div class="slider-grid">
+ 				<div class="grid-item hide"></div>
+ 				<div class="grid-item hide"></div>
+ 				<div class="grid-item hide"></div>
+ 				<div class="grid-item hide"></div>
+ 				<div class="grid-item hide"></div>
+ 				<div class="grid-item hide"></div>
+ 				
+
+ 	
+ </div>
+</div>
+
+
+
+
+
+ 			<section class="explore-section" id="explore-section">
+    <h1 class="section-title" data-aos="fade-up"><a name="1"></a>Explore the world</h1>
+    <p class="section-para" data-aos="fade-up"></p>
+
+
+        <div class="tours-container">
+
+        <div class="tour-card" data-aos="fade-up">
+            <img src="D:\profect photos/australia.png" class="tour-img" alt="tour-image">
+            <div class="tour-body">
+                <h3 class="tour-name">Australia</h3>
+                
+            </div>
+        </div>
+
+        <div class="tour-card" data-aos="fade-up">
+            <img src="D:\profect photos/maldives.png" class="tour-img" alt="tour-image">
+            <div class="tour-body">
+                <h3 class="tour-name">Maldives</h3>
+               
+            </div>
+        </div>
+
+        <div class="tour-card" data-aos="fade-up">
+            <img src="D:\profect photos/paris.png" class="tour-img" alt="tour-image">
+            <div class="tour-body">
+                <h3 class="tour-name">Paris</h3>
+               
+            </div>
+        </div>
+
+        <div class="tour-card" data-aos="fade-up">
+            <img src="D:\profect photos/dubai.png" class="tour-img" alt="tour-image">
+            <div class="tour-body">
+                <h3 class="tour-name">Dubai</h3>
+               
+            </div>
+        </div>
+
+        <div class="tour-card" data-aos="fade-up">
+            <img src="D:\profect photos/india.png" class="tour-img" alt="tour-image">
+            <div class="tour-body">
+                <h3 class="tour-name">India</h3>
+               
+            </div>
+        </div>
+
+        <div class="tour-card" data-aos="fade-up">
+            <img src="D:\profect photos/italy.png" class="tour-img" alt="tour-image">
+            <div class="tour-body">
+                <h3 class="tour-name">Italy</h3>
+                
+            </div>
+        </div>
+    </section>
+
+
+    	<section class="services-section" id="services">
+    <h1 class="section-title" data-aos="fade-up">Why Us ?</h1>
+    <p class="section-para" data-aos="fade-up"> </p>
+
+    <!-- services grid -->
+    <div class="serives-grid">
+        <div class="service-card" data-aos="fade-up">
+            <div class="circle"></div>
+            <i class="fa-solid fa-earth-americas card-icon"></i>
+            <p class="service-text">We are based all over the world</p>
+        </div>
+        <div class="service-card" data-aos="fade-up">
+            <div class="circle"></div>
+            <i class="fa-solid fa-coins card-icon"></i>
+            <p class="service-text">Travel the World,Without thinking</p>
+        </div>
+        <div class="service-card" data-aos="fade-up">
+            <div class="circle"></div>
+            <i class="fa-solid fa-book-open card-icon"></i>
+            <p class="service-text">Get to know about local cultures</p>
+        </div>
+        <div class="service-card" data-aos="fade-up">
+            <div class="circle"></div>
+            <i class="fa-solid fa-person-snowboarding card-icon"></i>
+            <p class="service-text">Have you best experience</p>
+        </div>
+    </div>
+
+    <div class="bg-circle"></div>
+
+    <div class="travel-grid" id="travel">
+        <img src="D:\profect photos/img1.png" data-aos="fade-up" alt="">
+        <img src="D:\profect photosimg2.png" data-aos="fade-up" alt="">
+        <img src="D:\profect photos/img3.png" data-aos="fade-up" alt="">
+        <img src="D:\profect photos/img4.png" data-aos="fade-up" alt="">
+        <img src="D:\profect photos/img5.png" data-aos="fade-up" alt="">
+        <img src="D:\profect photos/img6.png" data-aos="fade-up" alt=""> 
+        <img src="D:\profect photos/australia.png" data-aos="fade-up" alt="">
+        <img src="D:\profect photos/dubai.png" data-aos="fade-up" alt="">
+        <img src="D:\profect photos/maldives.png" data-aos="fade-up" alt="">
+        <img src="D:\profect photos/paris.png" data-aos="fade-up" alt="">
+        <img src="D:\profect photos/india.png" data-aos="fade-up" alt="">
+        <img src="D:\profect photos/italy.png" data-aos="fade-up" alt="">
+    </div>
+
+</section>
+<a name="3"></a>
+
+
+    <!-- contact section -->
+
+<section class="book-section" id="booknow">
+    <div class="book-content" data-aos="fade-up">
+        <h1 class="book-now-title">Book your travel today</h1>
+        <p class="book-now-text">Give yourself and your family a peacfull and wonderful vacation this holiday</p>
+
+        <button class="book-now"><a href="booking.html">book now</a></button>
+    </div>
+    <div class="bg-circle-2"></div>
+    <img src="D:\profect photos/book.png" data-aos="fade-up" class="book-now-img" alt="">
+</section>
+
+<!-- footer -->
+<footer class="footer">
+    <img src="D:\profect photos/logo.png" class="footer-logo" alt="">
+    <div class="footer-text"><a name="2"></a>
+        <p>Travel the world, on this holiday</p>
+        <p>Email - support@cit.com</p>
+        <p>Phone - 0000000000</p>
+    </div>
+    
+</footer>
+</section>
+ 	</div>
+
+ <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+
+    <!-- Local JS File(s) -->
+
+    <script src="app.js"></script>
+
+
+
+
+
+
+ 	
+
+    
+
+
+
+
+
+  
+</body>
+
+</html>
